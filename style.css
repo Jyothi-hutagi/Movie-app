@@ -1,0 +1,25 @@
+.page-header{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.para{
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bold;
+}
+
+ img{
+    align-items: center;
+    margin-left: 35%;
+    margin-top: 5%;
+    width: 300px;
+    height: 200px;
+    
+}
+#serach-btn{
+    position: absolute;
+    left: 45%;
+    top: 22%;
+}
